@@ -81,7 +81,7 @@ public class ClienteVIEW extends javax.swing.JInternalFrame {
         jCheckBox1.setText("jCheckBox1");
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jLabel1.setText("Cliente");
+        jLabel1.setText("Usuario");
 
         jLabel2.setText("Nome:");
 
